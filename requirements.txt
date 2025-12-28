@@ -1,0 +1,14 @@
+# Core
+ebooklib>=0.18
+beautifulsoup4>=4.12
+lxml>=4.9
+
+# NLP - 分词
+mecab-python3>=1.0.0
+unidic>=1.1.0
+
+# Anki
+genanki>=0.13
+
+# LLM
+openai>=1.0
