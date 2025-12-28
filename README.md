@@ -2,16 +2,6 @@
 
 从日语 EPUB 电子书提取生词，生成 Anki 闪卡。
 
-## 技术栈
-
-| 组件 | 用途 |
-|------|------|
-| EbookLib + BeautifulSoup | EPUB 文本提取（精度 97%+） |
-| MeCab + UniDic | 日语分词 |
-| OpenAI API | 生成释义和例句翻译 |
-| genanki | 生成 Anki 卡组 |
-| Tkinter | 桌面 GUI |
-
 ## 安装
 
 ```bash
